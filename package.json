@@ -1,0 +1,23 @@
+{
+  "name": "sru-auto-key",
+  "version": "1.0.0",
+  "description": "use serial key auto",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cli-color": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkjknm123"
+  },
+  "author": "panupong niyakit",
+  "license": "ISC"
+}
